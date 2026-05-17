@@ -1,0 +1,1 @@
+xcopy %userprofile%\Desktop\* D:\backupfile\%date:~0,10%\* /Y /Q /S /I 
