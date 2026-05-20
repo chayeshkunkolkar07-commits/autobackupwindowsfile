@@ -26,6 +26,20 @@ click basic Task
 ![Task Scheduler Setup](images/taskscheduler4.png)
 ![Task Scheduler Setup](images/taskscheduler5_1.png)
 ![Task Scheduler Setup](images/taskscheduler6.png)
+## 📸 Setup Slides
+
+<p align="center">
+  <img src="images/taskscheduler1.png" alt="Step 1 - Clone Repo" width="400"/>
+</p>
+
+<p align="center">
+  <img src="images/taskscheduler2.png" alt="Step 2 - Configure Script" width="400"/>
+</p>
+
+<p align="center">
+  <img src="images/taskscheduler3_1.png" alt="Step 3 - Task Scheduler" width="400"/>
+</p>
+
 
 
 
