@@ -18,8 +18,15 @@ Automated backup solution for Windows that copies all files from your **Desktop*
    c. Choose **Daily** (or preferred frequency)  
    d. Action → **Start a Program** → Select `backup_desktop.bat`  
    e. Save and test by running the task manually
-## 📸 
+## 📸 task schedule 
+click basic Task 
 ![Task Scheduler Setup](images/taskscheduler1.png)
+![Task Scheduler Setup](images/taskscheduler2.png)
+![Task Scheduler Setup](images/taskscheduler3_1.png)
+![Task Scheduler Setup](images/taskscheduler4.png)
+![Task Scheduler Setup](images/taskscheduler5_1.png)
+![Task Scheduler Setup](images/taskscheduler6.png)
+
 
 
    
