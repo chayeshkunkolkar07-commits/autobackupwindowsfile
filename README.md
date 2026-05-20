@@ -3,4 +3,6 @@ Automated backup solution for Windows that copies all files from your Desktop to
 
 🚀 Setup Instructions
 1. Clone Repository
-2. 
+git clone https://github.com/chayeshkunkolkar07-commits/autobackupwindowsfile.git
+2.   Create Scheduled Task
+   
