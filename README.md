@@ -2,10 +2,15 @@
 Automated backup solution for Windows that copies all files from your Desktop to the D: drive using a scheduled task.
 
 🚀 Setup Instructions
-1. Clone Repository
-2.
+**1. Clone Repository*
 ```bash
 git clone https://github.com/chayeshkunkolkar07-commits/autobackupwindowsfile.git
+```
+**2. Create Scheduled Task*
+a. Open Task Scheduler (Win + R → taskschd.msc)
+b. Select Create Basic Task → Name: Desktop Auto Backup  
+c. Choose Daily (or preferred frequency)
+d. Action → Start a Program → Select backup_desktop.bat  
+e. Save and test by running the task manually
 
-3.Create Scheduled Task
    
